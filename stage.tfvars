@@ -1,0 +1,5 @@
+ami_id1 = "ami-0fef201115eefe936"
+tag_name1 = "Raph_stage"
+ami_id2 = "ami-0b2c9d1f3edcfd709"
+tag_name2 = "Raph_stage"   
+bucket_name = "raph1uk1-s3-bucket-stage"          
